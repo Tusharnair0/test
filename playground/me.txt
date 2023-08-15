@@ -1,5 +1,0 @@
-{{#user}
-Name: Tushar Nair
-Skills: HTML5, CSS3, JAVA, JavaScript, Firebase, Flutter
-Email: 1tusharnair@gmail.com
-{{/user}}
